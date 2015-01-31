@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.MainActivity"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.MenuutamaActivity"/>
+<fullyQualifiedTypeName name="android.widget.AdapterView.OnItemClickListener"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.R.drawable"/>
+<fullyQualifiedTypeName name="android.widget.SimpleAdapter"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.PresidenActivity"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.DetailInformasi"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.R.id"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.aplikasi.presiden.TentangActivity"/>
+</qualifiedTypeNameHistroy>
